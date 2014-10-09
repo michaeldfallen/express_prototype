@@ -2,3 +2,5 @@
 .DS_Store
 .start.pid
 public/*
+node_modules/*
+govuk_modules/*
